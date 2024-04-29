@@ -17,6 +17,6 @@ Olá! eu sou o Gabriel Lopes
 </div>
 <div>
   <a href="https://www.linkedin.com/in/gabriellopescontroladoria" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/w/<SEU-USUÁRIO>/g1abriellopes?label=Commits%20em%20todas%20as%20branches">
   </a>
 </div>
