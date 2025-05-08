@@ -1,8 +1,6 @@
 Olá! eu sou o Gabriel Lopes
 
 - 🔭 Hoje estou trabalhando com data analysis
-- 🌱 Estudando python
-- 😄 ele/dele
 
 <div>
   <a href="https://github.com/g1abriellopes">
